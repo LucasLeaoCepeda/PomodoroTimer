@@ -1,0 +1,6 @@
+/* max device width */
+@media (max-width: 8900px) {
+    .site{
+        width: 100px;
+    }
+}
